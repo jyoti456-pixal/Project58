@@ -1,0 +1,30 @@
+img {
+	width: 100px;
+	border-radius: 50%;
+}
+
+body {
+	text-align: center;
+	background: linear-gradient(#fc3605 0%, #fc7405 100%);
+	background-repeat: no-repeat;
+}
+
+.line {
+	height: 6px;
+	background-color: black;
+	width: 70px;
+	margin: 8px auto;
+}
+
+#bio {
+	padding: 20px;
+	font-size: 18;
+	text-align: center;
+	background-color: yellowgreen;
+}
+
+p {
+	color: white;
+	font-size: 20px;
+
+}
